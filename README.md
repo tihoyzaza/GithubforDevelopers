@@ -1,4 +1,8 @@
-# GithubforDevelopers
-Hello, Welcome to My Project!
+# 👋 Hi My name is Kritsanai Bunnak
 
-# MyFirst
+## 📝 About Me
+I'm a cs student 📚
+
+- 👀 Based in Saraburi, Thailand
+
+- 🌱 I currently learning python, java, c++
